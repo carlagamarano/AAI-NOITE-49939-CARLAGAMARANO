@@ -3,6 +3,7 @@ AAI NOITE 49939 CARLA CAROLINE SANTOS GAMARANO
 
 
 <h2>COMANDO REACT NATIVE:</h2><br>
+
 //Criar projeto<br>
 npx react-native init NomedoProjeto<br>
 
