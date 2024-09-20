@@ -18,8 +18,10 @@ npx react-native run-android<br>
 
 
 <h2>COMANDOS GIT:</h2><br>
+
 //Comando para iniciar novo repositório git<br>
 git init<br>
+
 
 //Comando para iniciar repositório git na pasta do projeto<br> 
 git add<br>
