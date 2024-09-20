@@ -43,7 +43,7 @@ git clone https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match
 
 
 //Comando para acessar pasta do projeto clonado<br>
-cd NomedoProjeto<br>
+cd aula-fecaf-noite-dog-ever-match.git<br>
 
 //Comando para navegar a pasta do projeto clonado<br>
 npm install<br>
