@@ -3,47 +3,47 @@ AAI NOITE 49939 CARLA CAROLINE SANTOS GAMARANO
 
 
 <h2>COMANDO REACT NATIVE:</h2>
-//Criar projeto
+//Criar projeto<br>
 npx react-native init NomedoProjeto
 
-//Comando para acessar pasta 
+//Comando para acessar pasta<br>
 cd NomedoProjeto
 
-//Entrar na pasta do projeto
+//Entrar na pasta do projeto<br>
 npx react-native run-ios
 
-//Comando para iniciar app
+//Comando para iniciar app<br>
 npx react-native run-android
 
 
-<h2>COMANDOS GIT:</h2> 
-//Comando para iniciar novo repositório git
+<h2>COMANDOS GIT:</h2><br>
+//Comando para iniciar novo repositório git<br>
 git init
 
-//Comando para iniciar repositório git na pasta do projeto 
+//Comando para iniciar repositório git na pasta do projeto<br> 
 git add
 
-//Comando para adicionar todos os arquivos modificando para commit
+//Comando para adicionar todos os arquivos modificando para commit<br>
 git commit -m "primeiro commit"
 
-//Comando para adicionar repositório remoto ao projeto
+//Comando para adicionar repositório remoto ao projeto<br>
 git remote add origin 
 
-//Comando para associar repositório local ao remoto
+//Comando para associar repositório local ao remoto<br>
 git push -u origin 
 
 
-<h2>CLONAR PROJETO NO GITHUB</h2>
-//Comando para Clonar repositório do GitHUb
+<h2>CLONAR PROJETO NO GITHUB</h2><br>
+//Comando para Clonar repositório do GitHUb<br>
 git clone https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match.git
 
-//Comando para acessar pasta do projeto clonado
+//Comando para acessar pasta do projeto clonado<br>
 cd NomedoProjeto
 
-//Comando para navegar a pasta do projeto clonado
+//Comando para navegar a pasta do projeto clonado<br>
 npm install
 
-//Comando para instalar todas as dependências listadas no json
+//Comando para instalar todas as dependências listadas no json<br>
 npx react-native run-android
 
 
